@@ -13,7 +13,7 @@
     "emoji-button": "^2.2.2",
     "express": "^4.17.1",
     "http": "0.0.1-security",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
